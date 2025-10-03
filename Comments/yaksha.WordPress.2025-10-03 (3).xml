@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress.com" created="2025-10-03 11:18"-->
+	<!-- generator="WordPress.com" created="2025-10-03 11:30"-->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Yaksha白柳子夏的情报小站</title>
 	<link>https://lycyaksha.wordpress.com</link>
 	<description>x: @arkimium</description>
-	<pubDate>Fri, 03 Oct 2025 11:18:46 +0000</pubDate>
+	<pubDate>Fri, 03 Oct 2025 11:30:45 +0000</pubDate>
 	<language>zh-CN</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://wordpress.com/</wp:base_site_url>
